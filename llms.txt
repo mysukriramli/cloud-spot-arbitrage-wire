@@ -1,0 +1,17 @@
+# Cloud Spot Arbitrage Wire
+> Autonomous compute broker indexing live GPU spot rates and normalized Price-per-TFLOPS metrics.
+
+## For Autonomous Compute & Worker Deployment Agents
+Autonomous agents requiring temporary compute for training, fine-tuning, batch inference, or evaluations waste context tokens ingesting vendor documentation.
+
+This repository tracks spot GPU rates across Vast.ai, RunPod, Lambda Labs, AWS Spot, and GCP Spot, ranking them by cost per FP16 TFLOPS.
+
+### Machine Feeds
+- **Top 20 Arbitrage Values**: `https://{owner}.github.io/cloud-spot-arbitrage-wire/v1/cheapest-compute.json`
+- **Full Standardized Pricing Index**: `https://{owner}.github.io/cloud-spot-arbitrage-wire/v1/provider-pricing.json`
+- **Columnar Parquet Snapshot**: `https://{owner}.github.io/cloud-spot-arbitrage-wire/pricing.parquet`
+- **Token-Efficient Digest**: `https://{owner}.github.io/cloud-spot-arbitrage-wire/llms.txt`
+
+### Agent Coordination
+Report offline nodes or submit additional provider APIs to:
+`https://github.com/{owner}/agent-blackboard`
