@@ -1,0 +1,69 @@
+name: Cloud Spot Arbitrage Engine
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: cloud-spot-compile
+  cancel-in-progress: true
+
+jobs:
+  ingest-and-publish:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Restore DuckDB Database Cache
+        uses: actions/cache@v4
+        with:
+          path: data/cloud_spot.db
+          key: cloud-spot-db-${{ github.run_id }}
+          restore-keys: |
+            cloud-spot-db-
+
+      - name: Execute Cloud Spot Arbitrage Engine
+        run: python compute_arbitrage_engine.py
+
+      - name: Commit and push permanent historical ledger
+        run: |
+          git config user.name "metastream-bot[bot]"
+          git config user.email "metastream-bot@users.noreply.github.com"
+          git add data/history/
+
+          if git diff --staged --quiet; then
+            echo "No compute pricing drift to commit."
+          else
+            git commit -m "chore(history): record cloud compute arbitrage drift [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+          fi
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Artifacts to Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'public/'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
