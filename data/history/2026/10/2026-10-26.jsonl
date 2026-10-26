@@ -16,3 +16,14 @@
 {"commit_id": 60, "timestamp_utc": "2026-10-26T06:18:26.786948+00:00", "operation": "NEW_OFFER", "offer_id": "vast_50597579", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.4822}
 {"commit_id": 61, "timestamp_utc": "2026-10-26T06:18:26.786948+00:00", "operation": "NEW_OFFER", "offer_id": "vast_36368075", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.5366}
 {"commit_id": 62, "timestamp_utc": "2026-10-26T06:18:26.786948+00:00", "operation": "PRICE_DELTA", "offer_id": "vast_31183483", "provider": "Vast.ai", "gpu_model": "H100 SXM", "old_price": 3.3432, "new_price": 3.3632}
+{"commit_id": 63, "timestamp_utc": "2026-10-26T13:28:03.839700+00:00", "operation": "NEW_OFFER", "offer_id": "vast_52618403", "provider": "Vast.ai", "gpu_model": "A100 SXM 80GB", "price_per_gpu_hour": 0.5704}
+{"commit_id": 64, "timestamp_utc": "2026-10-26T13:28:03.839700+00:00", "operation": "NEW_OFFER", "offer_id": "vast_55221911", "provider": "Vast.ai", "gpu_model": "A100 SXM 80GB", "price_per_gpu_hour": 0.6308}
+{"commit_id": 65, "timestamp_utc": "2026-10-26T13:28:03.839700+00:00", "operation": "NEW_OFFER", "offer_id": "vast_54008102", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.4022}
+{"commit_id": 66, "timestamp_utc": "2026-10-26T13:28:03.839700+00:00", "operation": "NEW_OFFER", "offer_id": "vast_57641395", "provider": "Vast.ai", "gpu_model": "RTX 3090", "price_per_gpu_hour": 0.1782}
+{"commit_id": 67, "timestamp_utc": "2026-10-26T13:28:03.839700+00:00", "operation": "NEW_OFFER", "offer_id": "vast_47463263", "provider": "Vast.ai", "gpu_model": "A100 SXM 80GB", "price_per_gpu_hour": 0.8022}
+{"commit_id": 68, "timestamp_utc": "2026-10-26T13:28:03.839700+00:00", "operation": "NEW_OFFER", "offer_id": "vast_56262268", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.4415}
+{"commit_id": 69, "timestamp_utc": "2026-10-26T13:28:03.839700+00:00", "operation": "NEW_OFFER", "offer_id": "vast_50332826", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.4711}
+{"commit_id": 70, "timestamp_utc": "2026-10-26T13:28:03.839700+00:00", "operation": "NEW_OFFER", "offer_id": "vast_56286259", "provider": "Vast.ai", "gpu_model": "RTX 3090", "price_per_gpu_hour": 0.2104}
+{"commit_id": 71, "timestamp_utc": "2026-10-26T13:28:03.839700+00:00", "operation": "NEW_OFFER", "offer_id": "vast_46716861", "provider": "Vast.ai", "gpu_model": "H100 PCIe", "price_per_gpu_hour": 2.2672}
+{"commit_id": 72, "timestamp_utc": "2026-10-26T13:28:03.839700+00:00", "operation": "NEW_OFFER", "offer_id": "vast_46716859", "provider": "Vast.ai", "gpu_model": "H100 PCIe", "price_per_gpu_hour": 2.2678}
+{"commit_id": 73, "timestamp_utc": "2026-10-26T13:28:03.839700+00:00", "operation": "NEW_OFFER", "offer_id": "vast_46716863", "provider": "Vast.ai", "gpu_model": "H100 PCIe", "price_per_gpu_hour": 2.2689}
