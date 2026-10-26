@@ -34,3 +34,10 @@
 {"commit_id": 78, "timestamp_utc": "2026-10-26T19:31:34.200841+00:00", "operation": "NEW_OFFER", "offer_id": "vast_57527216", "provider": "Vast.ai", "gpu_model": "RTX 3090", "price_per_gpu_hour": 0.2156}
 {"commit_id": 79, "timestamp_utc": "2026-10-26T19:31:34.200841+00:00", "operation": "NEW_OFFER", "offer_id": "vast_31183489", "provider": "Vast.ai", "gpu_model": "H100 SXM", "price_per_gpu_hour": 3.5065}
 {"commit_id": 80, "timestamp_utc": "2026-10-26T19:31:34.200841+00:00", "operation": "NEW_OFFER", "offer_id": "vast_56436616", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.8074}
+{"commit_id": 81, "timestamp_utc": "2026-10-26T23:22:49.681392+00:00", "operation": "NEW_OFFER", "offer_id": "vast_54822822", "provider": "Vast.ai", "gpu_model": "A100 SXM 80GB", "price_per_gpu_hour": 0.3352}
+{"commit_id": 82, "timestamp_utc": "2026-10-26T23:22:49.681392+00:00", "operation": "NEW_OFFER", "offer_id": "vast_36878336", "provider": "Vast.ai", "gpu_model": "A100 SXM 80GB", "price_per_gpu_hour": 0.7348}
+{"commit_id": 83, "timestamp_utc": "2026-10-26T23:22:49.681392+00:00", "operation": "NEW_OFFER", "offer_id": "vast_54173469", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.4711}
+{"commit_id": 84, "timestamp_utc": "2026-10-26T23:22:49.681392+00:00", "operation": "NEW_OFFER", "offer_id": "vast_57884641", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.4805}
+{"commit_id": 85, "timestamp_utc": "2026-10-26T23:22:49.681392+00:00", "operation": "NEW_OFFER", "offer_id": "vast_29555928", "provider": "Vast.ai", "gpu_model": "RTX 3090", "price_per_gpu_hour": 0.2121}
+{"commit_id": 86, "timestamp_utc": "2026-10-26T23:22:49.681392+00:00", "operation": "NEW_OFFER", "offer_id": "vast_45716570", "provider": "Vast.ai", "gpu_model": "A100 SXM 80GB", "price_per_gpu_hour": 1.0022}
+{"commit_id": 87, "timestamp_utc": "2026-10-26T23:22:49.681392+00:00", "operation": "NEW_OFFER", "offer_id": "vast_47239986", "provider": "Vast.ai", "gpu_model": "A100 SXM 80GB", "price_per_gpu_hour": 1.0844}
