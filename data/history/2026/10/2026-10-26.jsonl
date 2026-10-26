@@ -27,3 +27,10 @@
 {"commit_id": 71, "timestamp_utc": "2026-10-26T13:28:03.839700+00:00", "operation": "NEW_OFFER", "offer_id": "vast_46716861", "provider": "Vast.ai", "gpu_model": "H100 PCIe", "price_per_gpu_hour": 2.2672}
 {"commit_id": 72, "timestamp_utc": "2026-10-26T13:28:03.839700+00:00", "operation": "NEW_OFFER", "offer_id": "vast_46716859", "provider": "Vast.ai", "gpu_model": "H100 PCIe", "price_per_gpu_hour": 2.2678}
 {"commit_id": 73, "timestamp_utc": "2026-10-26T13:28:03.839700+00:00", "operation": "NEW_OFFER", "offer_id": "vast_46716863", "provider": "Vast.ai", "gpu_model": "H100 PCIe", "price_per_gpu_hour": 2.2689}
+{"commit_id": 74, "timestamp_utc": "2026-10-26T19:31:34.200841+00:00", "operation": "NEW_OFFER", "offer_id": "vast_48181977", "provider": "Vast.ai", "gpu_model": "A100 SXM 80GB", "price_per_gpu_hour": 0.5348}
+{"commit_id": 75, "timestamp_utc": "2026-10-26T19:31:34.200841+00:00", "operation": "NEW_OFFER", "offer_id": "vast_55136415", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.4011}
+{"commit_id": 76, "timestamp_utc": "2026-10-26T19:31:34.200841+00:00", "operation": "NEW_OFFER", "offer_id": "vast_55136414", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.4022}
+{"commit_id": 77, "timestamp_utc": "2026-10-26T19:31:34.200841+00:00", "operation": "NEW_OFFER", "offer_id": "vast_55270707", "provider": "Vast.ai", "gpu_model": "A100 SXM 80GB", "price_per_gpu_hour": 0.7978}
+{"commit_id": 78, "timestamp_utc": "2026-10-26T19:31:34.200841+00:00", "operation": "NEW_OFFER", "offer_id": "vast_57527216", "provider": "Vast.ai", "gpu_model": "RTX 3090", "price_per_gpu_hour": 0.2156}
+{"commit_id": 79, "timestamp_utc": "2026-10-26T19:31:34.200841+00:00", "operation": "NEW_OFFER", "offer_id": "vast_31183489", "provider": "Vast.ai", "gpu_model": "H100 SXM", "price_per_gpu_hour": 3.5065}
+{"commit_id": 80, "timestamp_utc": "2026-10-26T19:31:34.200841+00:00", "operation": "NEW_OFFER", "offer_id": "vast_56436616", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.8074}
