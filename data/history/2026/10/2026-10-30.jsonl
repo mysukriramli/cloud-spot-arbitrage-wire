@@ -7,3 +7,10 @@
 {"commit_id": 210, "timestamp_utc": "2026-10-30T11:33:38.355008+00:00", "operation": "NEW_OFFER", "offer_id": "vast_43751091", "provider": "Vast.ai", "gpu_model": "H100 SXM", "price_per_gpu_hour": 2.4015}
 {"commit_id": 211, "timestamp_utc": "2026-10-30T11:33:38.355008+00:00", "operation": "NEW_OFFER", "offer_id": "vast_41247179", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.4414}
 {"commit_id": 212, "timestamp_utc": "2026-10-30T11:33:38.355008+00:00", "operation": "NEW_OFFER", "offer_id": "vast_39099119", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.4687}
+{"commit_id": 213, "timestamp_utc": "2026-10-30T17:14:28.327797+00:00", "operation": "NEW_OFFER", "offer_id": "vast_44527579", "provider": "Vast.ai", "gpu_model": "RTX 3090", "price_per_gpu_hour": 0.1648}
+{"commit_id": 214, "timestamp_utc": "2026-10-30T17:14:28.327797+00:00", "operation": "NEW_OFFER", "offer_id": "vast_55270709", "provider": "Vast.ai", "gpu_model": "A100 SXM 80GB", "price_per_gpu_hour": 0.7444}
+{"commit_id": 215, "timestamp_utc": "2026-10-30T17:14:28.327797+00:00", "operation": "NEW_OFFER", "offer_id": "vast_55676204", "provider": "Vast.ai", "gpu_model": "RTX 3090", "price_per_gpu_hour": 0.183}
+{"commit_id": 216, "timestamp_utc": "2026-10-30T17:14:28.327797+00:00", "operation": "NEW_OFFER", "offer_id": "vast_52399117", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.4859}
+{"commit_id": 217, "timestamp_utc": "2026-10-30T17:14:28.327797+00:00", "operation": "NEW_OFFER", "offer_id": "vast_51813248", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.495}
+{"commit_id": 218, "timestamp_utc": "2026-10-30T17:14:28.327797+00:00", "operation": "NEW_OFFER", "offer_id": "vast_58429196", "provider": "Vast.ai", "gpu_model": "H100 SXM", "price_per_gpu_hour": 3.2556}
+{"commit_id": 219, "timestamp_utc": "2026-10-30T17:14:28.327797+00:00", "operation": "PRICE_DELTA", "offer_id": "vast_56436606", "provider": "Vast.ai", "gpu_model": "RTX 4090", "old_price": 0.8037, "new_price": 0.6704}
