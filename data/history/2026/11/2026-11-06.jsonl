@@ -12,3 +12,10 @@
 {"commit_id": 414, "timestamp_utc": "2026-11-06T07:14:49.411407+00:00", "operation": "PRICE_DELTA", "offer_id": "vast_31183484", "provider": "Vast.ai", "gpu_model": "H100 SXM", "old_price": 3.4932, "new_price": 3.3332}
 {"commit_id": 415, "timestamp_utc": "2026-11-06T07:14:49.411407+00:00", "operation": "NEW_OFFER", "offer_id": "vast_59381671", "provider": "Vast.ai", "gpu_model": "H100 SXM", "price_per_gpu_hour": 3.3756}
 {"commit_id": 416, "timestamp_utc": "2026-11-06T07:14:49.411407+00:00", "operation": "NEW_OFFER", "offer_id": "vast_55097261", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.6685}
+{"commit_id": 417, "timestamp_utc": "2026-11-06T15:11:49.005061+00:00", "operation": "NEW_OFFER", "offer_id": "vast_58665869", "provider": "Vast.ai", "gpu_model": "RTX 3090", "price_per_gpu_hour": 0.1648}
+{"commit_id": 418, "timestamp_utc": "2026-11-06T15:11:49.005061+00:00", "operation": "NEW_OFFER", "offer_id": "vast_59358183", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.4593}
+{"commit_id": 419, "timestamp_utc": "2026-11-06T15:11:49.005061+00:00", "operation": "NEW_OFFER", "offer_id": "vast_59430214", "provider": "Vast.ai", "gpu_model": "H100 SXM", "price_per_gpu_hour": 3.3756}
+{"commit_id": 420, "timestamp_utc": "2026-11-06T15:11:49.005061+00:00", "operation": "NEW_OFFER", "offer_id": "vast_59075586", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.6018}
+{"commit_id": 421, "timestamp_utc": "2026-11-06T15:11:49.005061+00:00", "operation": "NEW_OFFER", "offer_id": "vast_44130212", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.6022}
+{"commit_id": 422, "timestamp_utc": "2026-11-06T15:11:49.005061+00:00", "operation": "NEW_OFFER", "offer_id": "vast_59075590", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.6037}
+{"commit_id": 423, "timestamp_utc": "2026-11-06T15:11:49.005061+00:00", "operation": "NEW_OFFER", "offer_id": "vast_59075605", "provider": "Vast.ai", "gpu_model": "RTX 4090", "price_per_gpu_hour": 0.6074}
